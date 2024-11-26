@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const moodStyles = {
       "😊": { background: "#ffeb3b", text: "#333" },
       "😢": { background: "#90caf9", text: "#000" },
-      "😡": { background: "#ef5350", text: "#fff" },
+      "😡": { background: "#ef5350", text: "#000" },
       "😌": { background: "#a5d6a7", text: "#000" },
       "🤔": { background: "#ce93d8", text: "#000" },
     };
